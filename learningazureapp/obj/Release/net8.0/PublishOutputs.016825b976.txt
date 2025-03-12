@@ -1,0 +1,7 @@
+E:\PRACTIS\learningazureapp\learningazureapp\obj\Release\net8.0\PubTmp\Out\learningazureapp.exe
+E:\PRACTIS\learningazureapp\learningazureapp\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+E:\PRACTIS\learningazureapp\learningazureapp\obj\Release\net8.0\PubTmp\Out\appsettings.json
+E:\PRACTIS\learningazureapp\learningazureapp\obj\Release\net8.0\PubTmp\Out\learningazureapp.dll
+E:\PRACTIS\learningazureapp\learningazureapp\obj\Release\net8.0\PubTmp\Out\learningazureapp.deps.json
+E:\PRACTIS\learningazureapp\learningazureapp\obj\Release\net8.0\PubTmp\Out\learningazureapp.runtimeconfig.json
+E:\PRACTIS\learningazureapp\learningazureapp\obj\Release\net8.0\PubTmp\Out\learningazureapp.pdb
